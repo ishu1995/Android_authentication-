@@ -3,16 +3,16 @@ In our problem statement of predicting Android application authenticity, we have
 
 The features which we have in our dataset are: 
 
-Name of the Application 
-Category of the Application 
-Number of related application 
-Description of the application 
-Ratings
-Number of Ratings 
-Price of application 
-Dangerous Permission Count 
-Safe Permission Count 
-Types of permission needed while installing the application 
+1. Name of the Application 
+2. Category of the Application 
+3. Number of related application 
+4. Description of the application 
+5. Ratings
+6. Number of Ratings 
+7. Price of application 
+8. Dangerous Permission Count 
+9. Safe Permission Count 
+10. Types of permission needed while installing the application 
 
 We start our project by doing the research on how permissions plays a important role in predicting the application status and types of attacks which generally happen through such malicious application. 
 
