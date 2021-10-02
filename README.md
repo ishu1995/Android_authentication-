@@ -21,11 +21,11 @@ Once we got the idea, we started working to prepare our dataset by doing cleanin
 After the preparation, we did EDA on the dataset and come with some really good insights on the Price, Category, Ratings and Permission Columns. Once EDA is done, we have worked on the description feature using NLP model. This model was built to check if text columns can also help in predicting the target class. We run the XG Boost model and got around 70% accuracy after tuning the hyperparameter tuning. 
 
 Now the time has come to fi the model and evaluate the model using the evaluation metrices. We used below models to train and test our dataset: 
-KNN
-Random Forest 
-Logistic 
-GBM 
-XG Boost
+1. KNN
+2. Random Forest 
+3. Logistic 
+4. GBM 
+5. XG Boost
 Also, the model with Probability derived column which we generated from textual data give us an increment of 8% as compared to the normal model without text derived column. 
 
 The model which best worked for us is XGBoost which give us better accuracy, precision, recall. We got in total 89% accuracy from the model.   
