@@ -26,6 +26,7 @@ Now the time has come to fi the model and evaluate the model using the evaluatio
 3. Logistic 
 4. GBM 
 5. XG Boost
+
 Also, the model with Probability derived column which we generated from textual data give us an increment of 8% as compared to the normal model without text derived column. 
 
 The model which best worked for us is XGBoost which give us better accuracy, precision, recall. We got in total 89% accuracy from the model.   
