@@ -1,4 +1,4 @@
-# Android_authentication-
+# Android Authenticity Predictor
 #### Co Created by [Ayush Jain](https://www.linkedin.com/in/ayush-jain-290b5a141/), Dhongari Pavan Raj Varma, Nadeeha A, Sreenivasan K V, Romaly Das and Yash Patil
 <h3> Business Problem </h3>
 The open source nature of Android OS has attracted wider adoption of the system by multiple kinds of developers. This occurrence has further promoted an exponential in the number of devices running the Android OS into different sectors of the economy. Even if this progress brings some amazing technological improvements and simplicity of doing businesses and social relationships, they have however become powerful channel for the unconstrained cyberattacks and surveillance against business and the individual users of these mobile devices. Many cyberattacks techniques exist but attacks through the malicious applications have taken a jump in the recent years. Android malware has done progress in sophistications and intelligence that they have become highly immune to current detection systems. 
